@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **FastApi** and **Docker**
 
-- 🤝 Open to collaboration! Passionate about contributing to meaningful projects and helping fellow developers. Let's build something together!
-
-<a href="https://linkedin.com/in/s4zco" target="blank"><img align="center" src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python" alt="s4zco" height="30" width="40" /></a>
+- 🤝 Open to collaboration! Passionate about contributing to meaningful projects. Let's build something together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
