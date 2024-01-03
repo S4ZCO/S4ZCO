@@ -12,7 +12,7 @@
 <a href="https://twitter.com/s4zco_Dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" height="40" width="50"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" height="40" width="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django logo" height="40" width="50"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI logo" height="40" width="50"/>
