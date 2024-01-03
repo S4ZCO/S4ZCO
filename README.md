@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" height="30" width="40"/></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" height="40" width="50"/></a>
 <a href="https://twitter.com/s4zco_Dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter logo" height="40" width="50"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
