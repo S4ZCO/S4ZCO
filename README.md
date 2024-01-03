@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure** and **Docker**
 
-- 🤝 Open to collaboration! Passionate about contributing to meaningful projects. Let's build something together!
+- 🤝 Open to **collaboration**! Passionate about contributing to **meaningful projects**. Let's build something together!
 
 <h3 align="left">Connect with me:</h3>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" height="40" width="50"/></a>
