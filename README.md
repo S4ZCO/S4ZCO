@@ -8,7 +8,7 @@ A tech explorer on a journey to master the art of software development.
 
 *   👀 I'm interested in **videogames** and building **full stack apps**
 *   🧠  I’m currently learning **FastAPI** and **Docker**
-*   🤝 Open to **collaboration**! Passionate about contributing to **meaningful projects**. Let's build something together!
+*   🤝 Open to **collaborate**! Passionate about contributing to **meaningful projects**. Let's build something together!
 
 ### Skills
 <p align="left">
