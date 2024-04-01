@@ -7,7 +7,7 @@ Full Stack Developer
 A tech explorer on a journey to master the art of software development.
 
 *   👀 I'm interested in **videogames** and building **full stack apps**
-*   🧠  I’m currently learning **FastAPI** and **Kubernetes**
+*   🧠  I’m currently learning **Go** and **Kubernetes**
 *   🤝 Open to **collaborate**! Passionate about contributing to **meaningful projects**. Let's build something together!
 
 ### Skills
